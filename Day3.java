@@ -1,6 +1,5 @@
-// Nama kelas harus sama dengan nama file (aisya.java)
+
 public class aisya {
-  // Method utama yang akan dijalankan pertama kali
   public static void main (String [] args) { 
 
     // Membuat variabel untuk menyimpan umur
@@ -19,4 +18,5 @@ public class aisya {
     System.out.println(" Dunia ");
   }
 }
+
 
