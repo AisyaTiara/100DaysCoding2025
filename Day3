@@ -1,0 +1,19 @@
+public class aisya{
+  public static void main (String [] args) { 
+
+    // Membuat variabel untuk menyimpan umur
+    int umur = 18;
+    // Membuat variabel untuk menyimpan nama
+    String nama = "Aisyah";
+
+    // Menampilkan teks dengan format: Nama: Aisyah, Umur: 18
+    System.out.printf("Nama: %s, Umur: %d", nama, umur);
+
+    // Memberi baris kosong
+    System.out.println(" ");
+    
+    // Menampilkan teks "Halo Dunia" dengan kombinasi print dan println
+    System.out.print("Halo");
+    System.out.println(" Dunia ");
+  }
+}
