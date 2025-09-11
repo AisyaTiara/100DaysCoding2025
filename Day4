@@ -1,0 +1,7 @@
+public class aisya {
+    public static void main(String[] args) {
+        System.out.println("Halo\nDunia");          // baris baru
+        System.out.println("Nama:\tAisyah");        // tab
+        System.out.println("Dia berkata: \"Hi!\""); // tanda kuti
+    }
+}
