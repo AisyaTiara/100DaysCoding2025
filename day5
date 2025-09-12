@@ -1,0 +1,21 @@
+
+package isyah;
+public class aisya {
+    public static void main(String[] args) {
+        //rentang nilai -128 sampai 127 
+        byte umur = 18;
+        //rentang nilai -31768 sampai 32767
+        short tahun = 2006;
+        //rentang nilai -2147483648 sampai 2147483647
+        int bulan = 11;
+        //rentang waktu -9223372036854775808 sampai 9223372036854775807
+        long tanggal = 20061103L;
+        
+        System.out.println("umur   = " +  umur );
+        System.out.println("tahun  = " +  tahun );
+        System.out.println("bulan  = " +  bulan);
+        System.out.println("tanggal lahir = " +  tanggal);
+        
+        
+    }
+}
