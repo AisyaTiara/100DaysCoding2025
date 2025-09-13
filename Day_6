@@ -1,0 +1,10 @@
+public class aisyah {
+    public static void main(String[] args) {
+   
+        float angkaFloat = 3.14f;
+        double angkaDouble = 3.193;
+
+        System.out.println("Contoh Float  : " + angkaFloat);
+        System.out.println("Contoh Double : " + angkaDouble);
+    }
+}
