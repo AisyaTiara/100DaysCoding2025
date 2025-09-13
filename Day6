@@ -1,0 +1,13 @@
+public class aisyah {
+    public static void main(String[] args) {
+        // Tipe data float (32-bit, presisi 6–7 digit)
+        float angkaFloat = 3.14f;
+
+        // Tipe data double (64-bit, presisi 15–16 digit)
+        double angkaDouble = 3.193;
+
+        // Tampilkan hasil
+        System.out.println("Contoh Float  : " + angkaFloat);
+        System.out.println("Contoh Double : " + angkaDouble);
+    }
+}
