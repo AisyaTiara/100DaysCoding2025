@@ -1,0 +1,9 @@
+public class aisyah{
+    public static void main(String[] args) {
+        char huruf = 'A';
+        boolean status = true;
+
+        System.out.println("Inisial  : " + huruf);
+        System.out.println("Mahasiswa : " + status);
+    }
+}
