@@ -1,0 +1,9 @@
+public class aisya{
+    public static void main(String[] args) {
+        String nama = "Aisyah";
+        String salam = "Halo, selamat pagi!";
+        
+        System.out.println("Nama saya: " + nama);
+        System.out.println(salam);
+    }
+}
