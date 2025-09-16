@@ -1,0 +1,10 @@
+public class aisya{
+    public static void main(String[] args) {
+        int umur = 17;
+        System.out.println("Umur awal: " + umur);
+        
+        // Update
+        umur = 18;
+        System.out.println("Umur setelah update: " + umur);
+    }
+}
