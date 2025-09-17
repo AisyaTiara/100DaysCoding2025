@@ -1,0 +1,6 @@
+public class aista{
+    public static void main(String[] args) {
+        final int angka = 10;   // konstanta lokal
+        System.out.println("Nilai Angka: " + angka);
+    }
+}
