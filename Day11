@@ -1,0 +1,30 @@
+package dasar.dasar_program_20_nov;
+
+import java.util.Scanner;
+
+public class aisyah {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner (System.in);
+        System.out.println("masukkan integer  :");
+        int a = sc.nextInt(); 
+        System.out.println("massukan tipe data char  " );
+        char b = sc.next().charAt(0);
+        String x = sc.nextLine();
+        System.out.println("masukkan tipe data String ");
+        String c  = sc.nextLine();
+        System.out.println("masukkan tipe data double ");
+        double d = sc.nextDouble();
+        System.out.println("masukkan tipe  data boolean ");
+        boolean e = sc.nextBoolean();
+        System.out.println("masukkan tipe data byte");
+        byte f = sc.nextByte();
+        System.out.println(a);       
+        System.out.println(b);       
+        System.out.println(c);       
+        System.out.println(d);       
+        System.out.println(e);       
+        System.out.println(f);       
+             
+        
+    }
+}
