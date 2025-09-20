@@ -1,0 +1,31 @@
+package aisya.thyara;
+
+public class soal_5 {
+
+    public static void main(String[] args) {
+
+      double uang =120.000000;
+
+      double x = 10;
+
+      double pajak = x/100;
+
+      double potong = pajak*uang ;
+
+      double a = uang - potong;
+
+      double c = a/3;
+
+        System.out.println("setelah di potong " + a);
+
+        System.out.println("rifai  " + c);
+
+        System.out.println("cipung " + c);
+
+        System.out.println("mariati  " + c);
+
+      
+
+    }
+
+}
