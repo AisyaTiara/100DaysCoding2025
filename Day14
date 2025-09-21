@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String[] args) {
+
+        String int1 = "0";
+        String int2 = "1";
+
+        int int2Val = Integer.parseInt(int1);
+        int int3Val = Integer.parseInt(int2);
+
+        System.out.println("Ini adalah angka biner " + int3Val + " dan " + int2Val);
+
+        String stringBool = "true";
+        boolean boolValue = Boolean.parseBoolean(stringBool);
+
+        System.out.println("Iyah " + boolValue + " itu adalah angka biner");
+    }
+}
