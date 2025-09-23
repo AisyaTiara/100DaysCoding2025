@@ -1,0 +1,10 @@
+public class aisya {
+public static void main(String[] args) {
+int a = 10;
+int b = 2;
+int perkalian= a * b;
+int pembagian= a / b;
+System.out.println("Hasil perkalian : " + perkalian);
+System.out.println("Hasil pembagian: " + pembagian);
+}
+}
