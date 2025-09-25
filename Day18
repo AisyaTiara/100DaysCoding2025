@@ -1,0 +1,8 @@
+public class aisya {
+    public static void main(String[] args) {
+        int angka = 50;              // int
+        double hasil = angka;        // otomatis int → double
+
+        System.out.println(hasil);   // output: 50.0
+    }
+}
