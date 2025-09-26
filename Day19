@@ -1,0 +1,9 @@
+public class aisya {
+    public static void main(String[] args) {
+        double angkaDouble = 9.8;       // tipe data besar
+        int angkaInt = (int) angkaDouble; // dipaksa dari double ke int
+
+        System.out.println("Nilai double: " + angkaDouble);
+        System.out.println("Setelah dipaksa ke int: " + angkaInt);
+    }
+}
