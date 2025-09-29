@@ -1,0 +1,10 @@
+public class aisya {
+    public static void main(String[] args) {
+        int sisi = 5; // nilai sisi persegi, bisa diganti sesuai kebutuhan
+
+        int luas = sisi * sisi;
+
+        System.out.println("Sisi persegi = " + sisi);
+        System.out.println("Luas persegi = " + luas);
+    }
+}
