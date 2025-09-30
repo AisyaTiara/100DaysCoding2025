@@ -1,0 +1,10 @@
+public class aisya {
+    public static void main(String[] args) {
+        int lebar  = 5; 
+        int panjang = 10;
+
+        int luas = panjang * lebar;
+
+        System.out.println(" Luas persegi panjang = " + luas);
+    }
+}
