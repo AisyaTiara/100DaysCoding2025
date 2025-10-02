@@ -1,0 +1,11 @@
+public class PrefixPostfixDemo2 {
+    public static void main(String[] args) {
+        int x = 11;
+
+        System.out.println(++x); // 12
+        System.out.println(x++); // 12 (x jadi 13)
+        System.out.println(x);   // 13
+        System.out.println(--x); // 12
+        System.out.println(x--); // 12 (x jadi 11)
+    }
+}
