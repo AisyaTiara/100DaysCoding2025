@@ -1,0 +1,28 @@
+package tugas05;
+
+import java.util.Scanner;
+
+public class aisya {
+    public static void main(String[] args) {
+       Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        
+        System.out.println("nilai yang dimasukan " + x);
+        x += 5 ;
+        System.out.println("setelah x + 5 = " + x);
+        
+        x -= 5 ;
+        System.out.println("setelah x - 5 = " + x);
+        
+        x *= 5 ;
+        System.out.println("setelah x * 5 = " + x);
+        
+        x /= 5 ;
+        System.out.println("setelah x / 5 = " + x);
+        
+        x %= 5 ;
+        System.out.println("setelah x % 5 = " + x);
+        
+        
+        
+}}
