@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class aisya2 {
+    public static void main(String[] args) {
+        Scanner in = new Scanner(System.in);
+        int l = in.nextInt();
+        int p = in.nextInt();
+        int luas = l * p;
+        int a = luas / (2 * l);
+        System.out.println(luas);
+        System.out.println(a);
+    }
+}
